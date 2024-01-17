@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * print_sign - Test wheter c is greater than zero, less or iqual to zero.
  * @c: Number to test
