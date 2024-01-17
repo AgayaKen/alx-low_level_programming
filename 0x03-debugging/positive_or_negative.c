@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- *@n: Starting number
+ *@positive_or_negative(n): Test if a given input is negative or positive
  * Return: Always 0 (Success)
  */
 int main(void)
