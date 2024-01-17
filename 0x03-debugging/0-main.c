@@ -1,18 +1,16 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * main - tests function that prints if integer is positive or negative
+ * Return: 0
  */
+
 int main(void)
 {
-    int n = 0;
+	int i;
 
-    printf("Testing positive_or_negative(%d):\n", n);
-    positive_or_negative(n);
-    printf("Expected output: 0 is zero\n");
+	i = 0;
+	positive_or_negative(i);
 
-    return (0);
+	return (0);
 }
-
